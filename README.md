@@ -18,7 +18,9 @@
       <h4>Pros of Cockroaches: Seeing as everyone is aware of the downsides of roaches, this website will only cover their positives. </h4>
         <ul>
           <li>Unsurpisingly, roaches are an important detrivore in many ecosystems, and aid in the decomposition of organic waste matter</li>
-          <li><image src="https://media.istockphoto.com/id/467093704/photo/cockroach-infestation.jpg?s=612x612&w=0&k=20&c=G3e_D4rJuGjBsREIb4Ro76-kP1wW5p0zTliL3gpIPUo="></li>
+          <image src="https://media.istockphoto.com/id/467093704/photo/cockroach-infestation.jpg?s=612x612&w=0&k=20&c=G3e_D4rJuGjBsREIb4Ro76-kP1wW5p0zTliL3gpIPUo=">
+          <li>Furthermore, roaches also serve as a valuable food source for a multitude of other animals, such as lizards and frogs.</li>
+          <image src="https://i.redd.it/61ypdpladya31.jpg" >
         </ul>
   </body>
 
