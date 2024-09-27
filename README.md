@@ -1,4 +1,5 @@
 <!DOCTYPE HTML>
+
 <html>
   <head> 
     <h1>Value of Cockroaches</h1>
@@ -14,6 +15,11 @@
     </ol>
     <h4>The final portion is extremely important. All too often we lump entire categories of animals into the "pest" box when only a select few truly belong there. While this thought process may be "inconsequential" when applied to insects, allowing oneself to hate an entire group of animals due to the behavior of a select few is a dangerous way of thinking that has led to the near complete destruction of a variety of keystone species, such as gray wolves and american bison. Hating an animal should be a decision that is based on facts and logic - not one's knee-jerk reaction to it.
       <h4><strong>Why do we hate insects?</strong> Despite the majority of insects - cockroaches included - posing virtually no threat to us, we still seem to fear them, begging the question of why we do when logically, it appears to be irrational. Seeing as this video explains this concept much better than I ever will, click <a href="https://youtu.be/6zX9f52tPK8?si=KY-VsVyuHr1LQPyr" target="_blank">this link</a> to learn more. </h4>
+      <h4>Pros of Cockroaches: Seeing as everyone is aware of the downsides of roaches, this website will only cover their positives. </h4>
+        <ol>
+          <li>Unsurpisingly, roaches are an important detrivore in many ecosystems, and aid in the decomposition of organic waste matter</li>
+          <li><image src="https://thumbs.dreamstime.com/z/cockroach-eating-apple-insects-eat-fruit-just-like-us-wild-big-black-eats-slice-natural-reserve-not-macro-shot-144823411.jpg"></li>
+        </ol>
   </body>
 
   
